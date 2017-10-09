@@ -1,0 +1,14 @@
+C:\Users\Admin-PC\Downloads\2-nunit-dotnet-testing-introduction-m2-exercise-files\after\AssertDemo\AssertDemo\bin\Debug\AssertDemo.dll
+C:\Users\Admin-PC\Downloads\2-nunit-dotnet-testing-introduction-m2-exercise-files\after\AssertDemo\AssertDemo\bin\Debug\AssertDemo.pdb
+C:\Users\Admin-PC\Downloads\2-nunit-dotnet-testing-introduction-m2-exercise-files\after\AssertDemo\AssertDemo\obj\Debug\AssertDemo.dll
+C:\Users\Admin-PC\Downloads\2-nunit-dotnet-testing-introduction-m2-exercise-files\after\AssertDemo\AssertDemo\obj\Debug\AssertDemo.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AssertDemo\bin\Debug\AssertDemo.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AssertDemo\bin\Debug\AssertDemo.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AssertDemo\obj\Debug\AssertDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AssertDemo\obj\Debug\AssertDemo.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AssertDemo\obj\Debug\AssertDemo.pdb
+D:\Training\nUnitTest\nUnitTest\AssertDemo\bin\Debug\AssertDemo.dll
+D:\Training\nUnitTest\nUnitTest\AssertDemo\bin\Debug\AssertDemo.pdb
+D:\Training\nUnitTest\nUnitTest\AssertDemo\obj\Debug\AssertDemo.csprojResolveAssemblyReference.cache
+D:\Training\nUnitTest\nUnitTest\AssertDemo\obj\Debug\AssertDemo.dll
+D:\Training\nUnitTest\nUnitTest\AssertDemo\obj\Debug\AssertDemo.pdb

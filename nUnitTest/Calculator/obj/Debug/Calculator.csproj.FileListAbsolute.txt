@@ -1,0 +1,15 @@
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator\bin\Debug\Calculator.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator\obj\Debug\Calculator.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator\bin\Debug\Calculator.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator\obj\Debug\Calculator.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator\obj\Debug\Calculator.pdb
+D:\Training\nUnitTest\nUnitTest\Calculator\bin\Debug\Calculator.dll
+D:\Training\nUnitTest\nUnitTest\Calculator\bin\Debug\Calculator.pdb
+D:\Training\nUnitTest\nUnitTest\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Training\nUnitTest\nUnitTest\Calculator\obj\Debug\Calculator.dll
+D:\Training\nUnitTest\nUnitTest\Calculator\obj\Debug\Calculator.pdb

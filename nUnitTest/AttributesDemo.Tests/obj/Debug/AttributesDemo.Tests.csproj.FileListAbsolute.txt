@@ -1,0 +1,18 @@
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.pdb
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\AttributesDemo.pdb
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\AttributesDemo.Tests.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\AttributesDemo.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo.Tests\obj\Debug\AttributesDemo.Tests.pdb

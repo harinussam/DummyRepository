@@ -1,0 +1,9 @@
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo\bin\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo\bin\Debug\AttributesDemo.pdb
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Downloads\3-nunit-dotnet-testing-introduction-m3-exercise-files\after\AttributesDemo\AttributesDemo\obj\Debug\AttributesDemo.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo\bin\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo\bin\Debug\AttributesDemo.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo\obj\Debug\AttributesDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo\obj\Debug\AttributesDemo.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\AttributesDemo\obj\Debug\AttributesDemo.pdb

@@ -1,0 +1,27 @@
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\Calculator.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\Admin-PC\Downloads\1-nunit-dotnet-testing-introduction-m1-exercise-files\after\GettingStarted\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\Calculator.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\Admin-PC\Documents\Visual Studio 2013\Projects\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\Calculator.dll
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\nunit.framework.dll
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\Calculator.pdb
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\bin\Debug\nunit.framework.xml
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.csprojResolveAssemblyReference.cache
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+D:\Training\nUnitTest\nUnitTest\Calculator.Tests\obj\Debug\Calculator.Tests.pdb
